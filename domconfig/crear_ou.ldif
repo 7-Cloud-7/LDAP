@@ -1,0 +1,7 @@
+dn: ou=Alumnos,dc=cloud,dc=com
+objectClass: organizationalUnit
+ou: Alumnos
+
+dn: ou=Profesores,dc=cloud,dc=com
+objectClass: organizationalUnit
+ou: Profesores

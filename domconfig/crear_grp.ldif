@@ -1,0 +1,4 @@
+dn: cn=informatica,ou=Profesores,dc=cloud,dc=com
+cn: informatica
+objectClass: groupOfNames
+member: cn=iago,ou=Profesores,dc=cloud,dc=com

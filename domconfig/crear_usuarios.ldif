@@ -1,0 +1,7 @@
+dn: uid=iago,ou=Profesores,dc=cloud,dc=com
+objectClass: inetOrgPerson
+objectClass: shadowAccount
+uid: iago
+sn: cruz
+cn: Iago Cruz
+displayName: Iago Cruz
